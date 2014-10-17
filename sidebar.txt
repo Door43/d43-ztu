@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ztu:home|Door43 (ztu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ztu|d43-ztu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ztu/archive/master.zip|d43-ztu.zip]]
+
+**Recent Changes**
+{{changes>ns = ztu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ztu|Ethnologue data]]
+
